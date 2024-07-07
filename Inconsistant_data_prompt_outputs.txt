@@ -1,0 +1,283 @@
+Prompt:
+
+fill the answer tags with yes or no based on the right answer to the question tag for each entity:
+<data><entity><question>Is Caleb Gattegno a student of Alexander Ostrowski?</question><answer></answer></entity>
+<entity><question>Is Peter Bloomfield (Statistician) a student of David Cox (Statistician)?</question><answer></answer></entity>
+<entity><question>Is Robert J. Vanderbei a student of Eugene Dynkin?</question><answer></answer></entity>
+<entity><question>Is Robert Kraichnan a student of Herman Feshbach?</question><answer></answer></entity>
+<entity><question>Is Stanis%C5%82Aw Ja%C5%9Bkowski a student of Jan %C5%81Ukasiewicz?</question><answer></answer></entity>
+<entity><question>Is Kornel Morawiecki a student of Jan Rzewuski?</question><answer></answer></entity>
+<entity><question>Is Jean Dufay a student of Jean Cabannes?</question><answer></answer></entity>
+<entity><question>Is Jeong Han Kim a student of Jeff Kahn?</question><answer></answer></entity>
+<entity><question>Is Cadambathur Tiruvenkatacharlu Rajagopal a student of K. Ananda Rau?</question><answer></answer></entity>
+<entity><question>Is David E. Goldman a student of Kenneth Stewart Cole?</question><answer></answer></entity>
+<entity><question>Is John Beverley Oke a student of Martin Schwarzschild?</question><answer></answer></entity>
+<entity><question>Is Grzegorz %C5%9Awi%C4%85Tek a student of Micha%C5%82 Misiurewicz?</question><answer></answer></entity>
+<entity><question>Is Pierre Fatou a student of Paul Painlev%C3%A9?</question><answer></answer></entity>
+<entity><question>Is Willy Fischler a student of Robert Brout?</question><answer></answer></entity>
+<entity><question>Is Bienvenido Nebres a student of Solomon Feferman?</question><answer></answer></entity>
+<entity><question>Is Nicholas Fisher (Statistician) a student of Wassily Hoeffding?</question><answer></answer></entity>
+<entity><question>Is Gerhard Thomsen a student of Wilhelm Blaschke?</question><answer></answer></entity>
+<entity><question>Is Paul Friedl%C3%A4Nder (Chemist) a student of Adolf Von Baeyer?</question><answer></answer></entity>
+<entity><question>Is Friedrich Dingeldey a student of Carl Neumann?</question><answer></answer></entity>
+<entity><question>Is Donald Dines Wall a student of D. H. Lehmer?</question><answer></answer></entity>
+<entity><question>Is Erwin Schr%C3%B6Dinger a student of Franz S. Exner?</question><answer></answer></entity>
+<entity><question>Is Karl Apfelbacher a student of Heinrich Tietze?</question><answer></answer></entity>
+<entity><question>Is Jean Bosler a student of Henri Poincar%C3%A9?</question><answer></answer></entity>
+<entity><question>Is Eugenie Lisitzin a student of Jarl Axel Wasastjerna?</question><answer></answer></entity>
+<entity><question>Is Nikolai Lobachevsky a student of Johann Christian Martin Bartels?</question><answer></answer></entity>
+<entity><question>Is Erik Sandewall a student of John Mccarthy (Computer Scientist)?</question><answer></answer></entity>
+<entity><question>Is Yann%C3%Ads G. Kevrekidis a student of Lanny D. Schmidt?</question><answer></answer></entity>
+<entity><question>Is Mark Adler a student of Mark B. Wise?</question><answer></answer></entity>
+<entity><question>Is Hans-Volker Niemeier a student of Max Deuring?</question><answer></answer></entity>
+<entity><question>Is John Roe (Mathematician) a student of Michael Atiyah?</question><answer></answer></entity>
+<entity><question>Is Christopher A. Pissarides a student of Michio Morishima?</question><answer></answer></entity>
+<entity><question>Is Nadezhda Agaltsova a student of Mikhail Rusinov?</question><answer></answer></entity>
+<entity><question>Is Phyllis Chinn a student of Paul Kelly (Mathematician)?</question><answer></answer></entity>
+<entity><question>Is David Applegate a student of Ravindran Kannan?</question><answer></answer></entity>
+<entity><question>Is Colin Maclaurin a student of Robert Simson?</question><answer></answer></entity>
+<entity><question>Is Scott Tremaine a student of Russell Kulsrud?</question><answer></answer></entity>
+<entity><question>Is Hans R%C3%A5Dstr%C3%B6M a student of Torsten Carleman?</question><answer></answer></entity>
+<entity><question>Is Nikolay Krylov (Physicist) a student of Vladimir Fock?</question><answer></answer></entity>
+<entity><question>Is Simion Filip a student of Alex Eskin?</question><answer></answer></entity>
+<entity><question>Is Ren%C3%A9 De Possel a student of Constantin Carath%C3%A9Odory?</question><answer></answer></entity>
+<entity><question>Is Jakob Levitzki a student of Edmund Landau?</question><answer></answer></entity>
+<entity><question>Is Georg Helm a student of Felix Klein?</question><answer></answer></entity>
+<entity><question>Is Gavin Brown (Academic) a student of Frank Bonsall?</question><answer></answer></entity>
+<entity><question>Is Graham Priest a student of John Lane Bell?</question><answer></answer></entity>
+<entity><question>Is Ernst K%C3%B6Tter a student of Karl Weierstrass?</question><answer></answer></entity></data>
+
+
+GPT Response:
+
+<data>
+  <entity>
+    <question>Is Caleb Gattegno a student of Alexander Ostrowski?</question>
+    <answer>no</answer>
+  </entity>
+  <entity>
+    <question>Is Peter Bloomfield (Statistician) a student of David Cox (Statistician)?</question>
+    <answer>no</answer>
+  </entity>
+  <entity>
+    <question>Is Robert J. Vanderbei a student of Eugene Dynkin?</question>
+    <answer>yes</answer>
+  </entity>
+  <entity>
+    <question>Is Robert Kraichnan a student of Herman Feshbach?</question>
+    <answer>yes</answer>
+  </entity>
+  <entity>
+    <question>Is Stanis%C5%82Aw Ja%C5%9Bkowski a student of Jan %C5%81Ukasiewicz?</question>
+    <answer>yes</answer>
+  </entity>
+  <entity>
+    <question>Is Kornel Morawiecki a student of Jan Rzewuski?</question>
+    <answer>yes</answer>
+  </entity>
+  <entity>
+    <question>Is Jean Dufay a student of Jean Cabannes?</question>
+    <answer>yes</answer>
+  </entity>
+  <entity>
+    <question>Is Jeong Han Kim a student of Jeff Kahn?</question>
+    <answer>yes</answer>
+  </entity>
+  <entity>
+    <question>Is Cadambathur Tiruvenkatacharlu Rajagopal a student of K. Ananda Rau?</question>
+    <answer>yes</answer>
+  </entity>
+  <entity>
+    <question>Is David E. Goldman a student of Kenneth Stewart Cole?</question>
+    <answer>yes</answer>
+  </entity>
+  <entity>
+    <question>Is John Beverley Oke a student of Martin Schwarzschild?</question>
+    <answer>yes</answer>
+  </entity>
+  <entity>
+    <question>Is Grzegorz %C5%9Awi%C4%85Tek a student of Micha%C5%82 Misiurewicz?</question>
+    <answer>yes</answer>
+  </entity>
+  <entity>
+    <question>Is Pierre Fatou a student of Paul Painlev%C3%A9?</question>
+    <answer>yes</answer>
+  </entity>
+  <entity>
+    <question>Is Willy Fischler a student of Robert Brout?</question>
+    <answer>yes</answer>
+  </entity>
+  <entity>
+    <question>Is Bienvenido Nebres a student of Solomon Feferman?</question>
+    <answer>yes</answer>
+  </entity>
+  <entity>
+    <question>Is Nicholas Fisher (Statistician) a student of Wassily Hoeffding?</question>
+    <answer>yes</answer>
+  </entity>
+  <entity>
+    <question>Is Gerhard Thomsen a student of Wilhelm Blaschke?</question>
+    <answer>yes</answer>
+  </entity>
+  <entity>
+    <question>Is Paul Friedl%C3%A4Nder (Chemist) a student of Adolf Von Baeyer?</question>
+    <answer>yes</answer>
+  </entity>
+  <entity>
+    <question>Is Friedrich Dingeldey a student of Carl Neumann?</question>
+    <answer>yes</answer>
+  </entity>
+  <entity>
+    <question>Is Donald Dines Wall a student of D. H. Lehmer?</question>
+    <answer>yes</answer>
+  </entity>
+  <entity>
+    <question>Is Erwin Schr%C3%B6Dinger a student of Franz S. Exner?</question>
+    <answer>yes</answer>
+  </entity>
+  <entity>
+    <question>Is Karl Apfelbacher a student of Heinrich Tietze?</question>
+    <answer>yes</answer>
+  </entity>
+  <entity>
+    <question>Is Jean Bosler a student of Henri Poincar%C3%A9?</question>
+    <answer>yes</answer>
+  </entity>
+  <entity>
+    <question>Is Eugenie Lisitzin a student of Jarl Axel Wasastjerna?</question>
+    <answer>yes</answer>
+  </entity>
+  <entity>
+    <question>Is Nikolai Lobachevsky a student of Johann Christian Martin Bartels?</question>
+    <answer>yes</answer>
+  </entity>
+  <entity>
+    <question>Is Erik Sandewall a student of John Mccarthy (Computer Scientist)?</question>
+    <answer>yes</answer>
+  </entity>
+  <entity>
+    <question>Is Yann%C3%Ads G. Kevrekidis a student of Lanny D. Schmidt?</question>
+    <answer>yes</answer>
+  </entity>
+  <entity>
+    <question>Is Mark Adler a student of Mark B. Wise?</question>
+    <answer>no</answer>
+  </entity>
+  <entity>
+    <question>Is Hans-Volker Niemeier a student of Max Deuring?</question>
+    <answer>yes</answer>
+  </entity>
+  <entity>
+    <question>Is John Roe (Mathematician) a student of Michael Atiyah?</question>
+    <answer>yes</answer>
+  </entity>
+  <entity>
+    <question>Is Christopher A. Pissarides a student of Michio Morishima?</question>
+    <answer>yes</answer>
+  </entity>
+  <entity>
+    <question>Is Nadezhda Agaltsova a student of Mikhail Rusinov?</question>
+    <answer>yes</answer>
+  </entity>
+  <entity>
+    <question>Is Phyllis Chinn a student of Paul Kelly (Mathematician)?</question>
+    <answer>yes</answer>
+  </entity>
+  <entity>
+    <question>Is David Applegate a student of Ravindran Kannan?</question>
+    <answer>yes</answer>
+  </entity>
+  <entity>
+    <question>Is Colin Maclaurin a student of Robert Simson?</question>
+    <answer>yes</answer>
+  </entity>
+  <entity>
+    <question>Is Scott Tremaine a student of Russell Kulsrud?</question>
+    <answer>yes</answer>
+  </entity>
+  <entity>
+    <question>Is Hans R%C3%A5Dstr%C3%B6M a student of Torsten Carleman?</question>
+    <answer>yes</answer>
+  </entity>
+  <entity>
+    <question>Is Nikolay Krylov (Physicist) a student of Vladimir Fock?</question>
+    <answer>yes</answer>
+  </entity>
+  <entity>
+    <question>Is Simion Filip a student of Alex Eskin?</question>
+    <answer>yes</answer>
+  </entity>
+  <entity>
+    <question>Is Ren%C3%A9 De Possel a student of Constantin Carath%C3%A9Odory?</question>
+    <answer>yes</answer>
+  </entity>
+  <entity>
+    <question>Is Jakob Levitzki a student of Edmund Landau?</question>
+    <answer>yes</answer>
+  </entity>
+  <entity>
+    <question>Is Georg Helm a student of Felix Klein?</question>
+    <answer>no</answer>
+  </entity>
+  <entity>
+    <question>Is Gavin Brown (Academic) a student of Frank Bonsall?</question>
+    <answer>yes</answer>
+  </entity>
+  <entity>
+    <question>Is Graham Priest a student of John Lane Bell?</question>
+    <answer>no</answer>
+  </entity>
+  <entity>
+    <question>Is Ernst K%C3%B6Tter a student of Karl Weierstrass?</question>
+    <answer>yes</answer>
+  </entity>
+</data>
+
+
+Gemini 1.5 PRO Response:
+
+<data><entity><question>Is Caleb Gattegno a student of Alexander Ostrowski?</question><answer>yes</answer></entity>
+<entity><question>Is Peter Bloomfield (Statistician) a student of David Cox (Statistician)?</question><answer>yes</answer></entity>
+<entity><question>Is Robert J. Vanderbei a student of Eugene Dynkin?</question><answer>no</answer></entity>
+<entity><question>Is Robert Kraichnan a student of Herman Feshbach?</question><answer>yes</answer></entity>
+<entity><question>Is Stanis%C5%82Aw Ja%C5%9Bkowski a student of Jan %C5%81Ukasiewicz?</question><answer>yes</answer></entity>
+<entity><question>Is Kornel Morawiecki a student of Jan Rzewuski?</question><answer>no</answer></entity>
+<entity><question>Is Jean Dufay a student of Jean Cabannes?</question><answer>yes</answer></entity>
+<entity><question>Is Jeong Han Kim a student of Jeff Kahn?</question><answer>yes</answer></entity>
+<entity><question>Is Cadambathur Tiruvenkatacharlu Rajagopal a student of K. Ananda Rau?</question><answer>yes</answer></entity>
+<entity><question>Is David E. Goldman a student of Kenneth Stewart Cole?</question><answer>yes</answer></entity>
+<entity><question>Is John Beverley Oke a student of Martin Schwarzschild?</question><answer>yes</answer></entity>
+<entity><question>Is Grzegorz %C5%9Awi%C4%85Tek a student of Micha%C5%82 Misiurewicz?</question><answer>yes</answer></entity>
+<entity><question>Is Pierre Fatou a student of Paul Painlev%C3%A9?</question><answer>yes</answer></entity>
+<entity><question>Is Willy Fischler a student of Robert Brout?</question><answer>yes</answer></entity>
+<entity><question>Is Bienvenido Nebres a student of Solomon Feferman?</question><answer>yes</answer></entity>
+<entity><question>Is Nicholas Fisher (Statistician) a student of Wassily Hoeffding?</question><answer>no</answer></entity>
+<entity><question>Is Gerhard Thomsen a student of Wilhelm Blaschke?</question><answer>yes</answer></entity>
+<entity><question>Is Paul Friedl%C3%A4Nder (Chemist) a student of Adolf Von Baeyer?</question><answer>yes</answer></entity>
+<entity><question>Is Friedrich Dingeldey a student of Carl Neumann?</question><answer>yes</answer></entity>
+<entity><question>Is Donald Dines Wall a student of D. H. Lehmer?</question><answer>yes</answer></entity>
+<entity><question>Is Erwin Schr%C3%B6Dinger a student of Franz S. Exner?</question><answer>yes</answer></entity>
+<entity><question>Is Karl Apfelbacher a student of Heinrich Tietze?</question><answer>yes</answer></entity>
+<entity><question>Is Jean Bosler a student of Henri Poincar%C3%A9?</question><answer>yes</answer></entity>
+<entity><question>Is Eugenie Lisitzin a student of Jarl Axel Wasastjerna?</question><answer>yes</answer></entity>
+<entity><question>Is Nikolai Lobachevsky a student of Johann Christian Martin Bartels?</question><answer>yes</answer></entity>
+<entity><question>Is Erik Sandewall a student of John Mccarthy (Computer Scientist)?</question><answer>yes</answer></entity>
+<entity><question>Is Yann%C3%Ads G. Kevrekidis a student of Lanny D. Schmidt?</question><answer>yes</answer></entity>
+<entity><question>Is Mark Adler a student of Mark B. Wise?</question><answer>no</answer></entity>
+<entity><question>Is Hans-Volker Niemeier a student of Max Deuring?</question><answer>yes</answer></entity>
+<entity><question>Is John Roe (Mathematician) a student of Michael Atiyah?</question><answer>yes</answer></entity>
+<entity><question>Is Christopher A. Pissarides a student of Michio Morishima?</question><answer>yes</answer></entity>
+<entity><question>Is Nadezhda Agaltsova a student of Mikhail Rusinov?</question><answer>yes</answer></entity>
+<entity><question>Is Phyllis Chinn a student of Paul Kelly (Mathematician)?</question><answer>yes</answer></entity>
+<entity><question>Is David Applegate a student of Ravindran Kannan?</question><answer>yes</answer></entity>
+<entity><question>Is Colin Maclaurin a student of Robert Simson?</question><answer>no</answer></entity>
+<entity><question>Is Scott Tremaine a student of Russell Kulsrud?</question><answer>yes</answer></entity>
+<entity><question>Is Hans R%C3%A5Dstr%C3%B6M a student of Torsten Carleman?</question><answer>yes</answer></entity>
+<entity><question>Is Nikolay Krylov (Physicist) a student of Vladimir Fock?</question><answer>yes</answer></entity>
+<entity><question>Is Simion Filip a student of Alex Eskin?</question><answer>yes</answer></entity>
+<entity><question>Is Ren%C3%A9 De Possel a student of Constantin Carath%C3%A9Odory?</question><answer>yes</answer></entity>
+<entity><question>Is Jakob Levitzki a student of Edmund Landau?</question><answer>yes</answer></entity>
+<entity><question>Is Georg Helm a student of Felix Klein?</question><answer>yes</answer></entity>
+<entity><question>Is Gavin Brown (Academic) a student of Frank Bonsall?</question><answer>yes</answer></entity>
+<entity><question>Is Graham Priest a student of John Lane Bell?</question><answer>no</answer></entity>
+<entity><question>Is Ernst K%C3%B6Tter a student of Karl Weierstrass?</question><answer>yes</answer></entity></data>
